@@ -1,0 +1,3 @@
+rootProject.name='spring-cloud-consul-exmaple'
+
+include "consul-service-a"
